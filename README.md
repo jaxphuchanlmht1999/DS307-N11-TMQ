@@ -1,10 +1,10 @@
 **Đồ án Phân tích dữ liệu truyền thông mạng xã hội - Social Listening: A Research Report on The La Roche-Posay Brand**
 
 
-Nhóm 5:
+Nhóm 5
    -
-      - Trần Minh Quân - 18521288 (Nhóm trưởng)
-      - Trần Cao Phát - 18521233
+      Trần Minh Quân - 18521288 (Nhóm trưởng)
+      Trần Cao Phát - 18521233
 
 Trong Git này trình bày cách thu thập dữ liệu về thương hiệu The La Roche-Posay trên sàn thương mại điện tử Shopee, quy trình thu thập gồm 3 bước:
   - Thu thập các link sản phẩm từ shop office của The La Roche-Posay trên Shopee 
