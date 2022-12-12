@@ -1,4 +1,4 @@
-Đồ án Phân tích dữ liệu truyền thông mạng xã hội
+Đồ án Phân tích dữ liệu truyền thông mạng xã hội - Social Listening: A Research Report on The La Roche-Posay Brand
 
 Nhóm :
 - Trần Minh Quân - 18521288 (Nhóm trưởng)
