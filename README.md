@@ -10,12 +10,13 @@
      - link thương hiệu: 1. https://shopee.vn/larocheposay_officialstore
                          2. https://tiki.vn/cua-hang/la-roche-posay-official
   ### 2. Thu thập các thông tin của bình luận người dùng bao gồm:
-     - nameProduct: tên sản phẩm
-     - reviewStar: đánh giá của người dùng về sản phẩm đó
+     - name_user: tên user
+     - name_product: tên sản phẩm
+     - review_star: đánh giá của người dùng về sản phẩm đó
      - comment: nội dung của bình luận người dùng
-     - timeCmt: thời gian người dùng bình luận
-     - linkProduct: đường link sản phẩm
-     - linkUser: đường link profile User
+     - time_cmt: thời gian người dùng bình luận
+     - link_product: đường link sản phẩm
+     - link_user: đường link profile User
   ### 3. Thu thập dữ liệu của sản phẩm bao gồm:
      - name_product: tên sản phẩm
      - price_discount: giá của sản phẩm trong lúc khuyến mãi
