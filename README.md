@@ -14,6 +14,7 @@
      - timeCmt: thời gian người dùng bình luận
      - nameProduct: tên sản phẩm
      - linkProduct: đường link sản phẩm
+     - linkUser: đường link profile User
   ### 3. Thu thập dữ liệu của sản phẩm bao gồm:
      - name_product: tên sản phẩm
      - price_discount: giá của sản phẩm trong lúc khuyến mãi
