@@ -22,3 +22,6 @@
      - purchased: số lượt mua sản phẩm
      - link_product: đường link sản phẩm
      - description: mô tả của sản phẩm
+     
+ ### 4. Tường lửa Shopee 23-12-2022
+     - Relogin và gửi mail xác nhận => Chưa tìm được cách vượt, chữa cháy bằng cách đăng nhập như bình thường xong reload lại trang
