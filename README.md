@@ -27,8 +27,8 @@
      - description: mô tả của sản phẩm
      - total_cmt: tổng lượt bình luận
  ### 4. Thu thập thông tin User
-     -
-     -
+     - Tên
+     - Giới tính (dùng mô hình dự đoán https://github.com/JkUndead/UIT-ViNames-Dataset?fbclid=IwAR0qIDxlns7PbgVqsZQXGrC3u4CNP8sQkxfsu2kxux5KqMWi_DHbVMJ_f7Q)
      -
      
  ### 5. Tường lửa Shopee 
