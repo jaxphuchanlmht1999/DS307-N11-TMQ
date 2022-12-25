@@ -27,11 +27,11 @@
      - description: mô tả của sản phẩm
      - total_cmt: tổng lượt bình luận
  ### 4. Thu thập thông tin User
-     - Tên
-     - Giới tính (dùng mô hình dự đoán https://github.com/JkUndead/UIT-ViNames-Dataset?fbclid=IwAR0qIDxlns7PbgVqsZQXGrC3u4CNP8sQkxfsu2kxux5KqMWi_DHbVMJ_f7Q)
-     -
+     - user_name: tên người dùng
+     - user_link: đường link của user
+     - Giới tính*: giới tính của User (dùng mô hình dự đoán)
      
  ### 5. Tường lửa Shopee 
      - Relogin và gửi mail xác nhận => Chưa tìm được cách vượt, chữa cháy bằng cách đăng nhập như bình thường xong reload lại trang
  ### 6. Tường lửa Tiki
-     - 
+     - Kéo thả ảnh sao cho khớp => ít bị ban, chắc do may mắn 😁
