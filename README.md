@@ -6,7 +6,7 @@
    - Trần Cao Phát - 18521233
 
 ## Trong Git này trình bày cách thu thập dữ liệu về thương hiệu The La Roche-Posay trên sàn thương mại điện tử Shopee, quy trình thu thập gồm 3 bước:
-  ### 1. Thu thập các link sản phẩm từ shop office của The La Roche-Posay trên Shopee 
+  ### 1. Thu thập các link sản phẩm từ shop official của The La Roche-Posay trên Shopee 
      - link thương hiệu: 1. https://shopee.vn/larocheposay_officialstore
                          2. https://tiki.vn/cua-hang/la-roche-posay-official
   ### 2. Thu thập các thông tin của bình luận người dùng bao gồm:
